@@ -16,6 +16,9 @@
    -  Backend Technologies: Node.js, Express.js
    -  Web & Cloud Technologies: React(L), AWS, MongoDB, SQL, CSS, HTML
    -  Testing & Tools: Git, Postman(L)
+   -  
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbabu010&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p align="left">![Romil's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbabu010&show_icons=true&theme=radical) </p>
