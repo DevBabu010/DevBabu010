@@ -1,7 +1,7 @@
 
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://www.linkedin.com/in/mishraharsh-hmc/)
 <h2 align="center">उत्तिष्ठ जाग्रत प्राप्य वरान्निबोधत</h2>
-<h1 align="center"> नमस्ते 🙏, I'm Shailendra kumar Verma AKA developer BABU</h1>
+<h1 align="center"> नमस्ते 🙏, I'm Shailendra kumar Verma</h1>
 <h2 align="center">Languages : Python | Java | C | C++ |</h2>
 
 
@@ -11,9 +11,9 @@
 
 </p>
 
-### 🛠️ Technical Skills:(L= currently learning)
+### 🛠️ Technical Skills: (L= currently learning)
    -  Languages: Python, Java, C, JavaScript(L), TypeScript(L)
-   -  Backend Technologies: Node.js, Express.js
+   -  Backend Technologies(L): Node.js, Express.js, Django
    -  Web & Cloud Technologies: React(L), AWS, MongoDB, SQL, CSS, HTML
    -  Testing & Tools: Git, Postman(L)
    -  
