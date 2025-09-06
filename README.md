@@ -3,7 +3,7 @@
 
 <h2 align="center"> उत्तिष्ठ जाग्रत प्राप्य वरान्निबोधत </h2>
 <h1 align="center"> नमस्ते 🙏, I'm Shailendra kumar Verma</h1>
-<h2 align="center">Languages : Python | Java | C | C++ |</h2>
+<h2 align="center">Languages : Python | Java | C | C++ | Javascript |</h2>
 
 
 
