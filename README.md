@@ -12,10 +12,10 @@
 
 </p>
 
-### 🛠️ Technical Skills: (L= currently learning)
-   -  Languages: Python, Java, C, JavaScript(L), TypeScript(L)
+### 🛠️ Technical Skills: ( L= currently learning )
+   -  Languages: Python, Java, C, JavaScript, TypeScript(L)
    -  Backend Technologies(L): Node.js, Express.js, Django
-   -  Web & Cloud Technologies: React(L), AWS, MongoDB, SQL, HTML, CSS, JavaScript(L) 
+   -  Web & Cloud Technologies:  MERN, HTML, CSS, JavaScript, Bootstrap, AWS, SQL
    -  Testing & Tools: Git, Postman(L)
  
 
