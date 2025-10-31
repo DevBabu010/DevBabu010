@@ -4,7 +4,7 @@
 <h2 align="center"> उत्तिष्ठ जाग्रत प्राप्य वरान्निबोधत </h2>
 <h1 align="center"> नमस्ते ! 🙏, I'm Shailendra kumar Verma</h1>
 <h2 align="center">Languages : Python | Java | C | C++ | Javascript |</h2>
-<p> https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif </p>
+<p> <img src = "https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"</p>
 <> https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif</>
 
 <p align="center">
