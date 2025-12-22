@@ -1,7 +1,7 @@
 
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://www.linkedin.com/in/mishraharsh-hmc/)
 
-<h2 align="center"> उत्तिष्ठ जाग्रत प्राप्य वरान्निबोधत </h2>
+<h2 align="center">💡विद्या अमृतमश्नुते (Knowledge is immortality). </h2>
 <h1 align="center"> नमस्ते ! 🙏, I'm Shailendra kumar Verma</h1>
 <h2 align="center">Languages : Python | Java | C | C++ | Javascript |</h2>
 <p align = center> <img src = "https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "100">
