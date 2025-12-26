@@ -22,9 +22,10 @@
  
 
 <p align="left">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbabu010&layout=compact)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devbabu010"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devbabu010&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devbabu010" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbabu010" />
 </p>
 <p align="center">
   <img src="marquee.svg" />
