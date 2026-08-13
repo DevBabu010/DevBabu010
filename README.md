@@ -13,10 +13,21 @@
 _________________________________________________________________________________________________
 
 ### 🛠️ Technical Skills:
-   -  Languages: Python, Java, C, JavaScript
-   -  Backend Technologies: Node.js, Express.js
-   -  Web & Cloud Technologies:  MERN, HTML, CSS, JavaScript, Bootstrap, AWS, SQL, REST API
-   -  Testing & Tools: Git, Postman
+- **Programming Languages** : Python, Java, Javascript, TypeScript
+- **Frontend Development** : HTML5, CSS3, React.js, Responsive Web Design, Bootstrap, Tailwind
+CSS
+- **Backend Development** : Node.js, Express.js, REST API Development, JWT Authentication, OAuth
+2.0, Socket.io
+- **AI/Machine Learning** : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization** : Matplotlib, Power BI
+- **Tools** : Jupyter Notebook, VS Code, Postman Figma
+- **Database** : MySQL, MongoDB, PostgreSQL
+- **Cloud/DevOps** : AWS (EC2, S3), Heroku, Render, Linux, Docker Compose, Git, GitHub, GitHub
+   Actions (CI/CD)
+- ***Cybersecurity : Nmap, Wireshark, OpenVAS, Nessus, Burp Suit, Metasploit TCP/IP, DNS,
+   HTTP/HTTPS, Tcpdump, Firewall, IDS/IPS***
+- **Core Computer Science** : Data Structures & Algorithms, Object-Oriented Programming (OOP),
+  DBMS, Operating Systems, Computer Networks, System Design (Basics), SQL
 ____________
  
 
